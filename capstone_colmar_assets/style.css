@@ -1,0 +1,53 @@
+.titrelogo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: 34px;
+  font-size: 20px;
+}
+
+.btn-menu {
+  top: 0;
+  right: 0;
+  position: absolute;
+  margin-right: 24px;
+}
+
+.main1 {
+  background-color: grey;
+  display: block;
+  margin-top: 64px;
+}
+
+.img1 img {
+  width: 650px;
+  height: auto;
+  margin-left: 24px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.img2 img {
+  width: 650px;
+  height: auto;
+  margin-left: 24px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.paraph1 {
+  position: absolute;
+  left: 40%;
+  bottom: 60%;
+  font-size: 180%;
+  margin-left: 24px;
+}
+
+.text {
+  position: relative;
+  margin-left: 24px;
+  top: 15%;
+}
+
+.text p {
+}
